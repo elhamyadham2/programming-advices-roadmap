@@ -1,2 +1,12 @@
-# Auto detect text files and perform LF normalization
+# Set default behavior to automatically handle line endings
 * text=auto
+
+# Explicitly declare text files to always use LF (Linux/Mac) or CRLF (Windows)
+*.md text eol=lf
+*.cpp text
+*.h text
+*.txt text
+
+# Keep binary files untouched
+*.png binary
+*.jpg binary

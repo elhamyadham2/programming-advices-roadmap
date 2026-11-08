@@ -18,7 +18,7 @@ Welcome to my learning repository! Here, I document my progress, solutions, and 
 
 
 
-\- \*\*Current Status:\*\* Course 10  
+\- \*\*Current Status:\*\* Course 10
 
 \- \*\*Goal:\*\* Master core computer science fundamentals, data structures, algorithms, and software engineering principles.
 
