@@ -18,9 +18,9 @@ Welcome to my learning repository! Here, I document my progress, solutions, and 
 | Course | Title / Topic | Status | Highlights / Key Projects |
 | :--- | :--- | :---: | :--- |
 | **Course 01 - 02** | Programming Foundations | ✅ Completed | Basic syntax, logic building |
-| **Course 03 - 08** | Core Programming & OOP | ✅ Completed | Mini-projects, problem-solving, algorithms |
+| **Course 03 - 08** | Core Programming & procedural programming | ✅ Completed | Mini-projects, problem-solving, algorithms |
 | **Course 09** | Core CS Concepts | ✅ Completed | Theoretical concepts & architecture notes |
-| **Course 10** | Advanced Concepts & Projects | 🔄 In Progress | Active daily projects |
+| **Course 10** | OOP as it Should Be (Concepts) & Projects | 🔄 In Progress | Active daily projects |
 
 ---
 
