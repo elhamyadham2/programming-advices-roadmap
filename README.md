@@ -1,74 +1,37 @@
-# programming advices roadmap
+programming advices roadmap
 
+# 🚀 Programming Advices Roadmap Journey
 
+Welcome to my learning repository! Here, I document my progress, solutions, and key concepts as I work through the **Programming Advices** roadmap by Dr. Abu-Hadhoud.
 
-\# 🚀 Programming Advices Roadmap Journey
+---
 
+## 📌 Progress Overview
 
+- **Current Status:** Course 10
+- **Goal:** Master core computer science fundamentals, data structures, algorithms, and software engineering principles.
 
-Welcome to my learning repository! Here, I document my progress, solutions, and key concepts as I work through the \*\*Programming Advices\*\* roadmap by Dr. Abu-Hadhoud.
+---
 
-
-
-\---
-
-
-
-\## 📌 Progress Overview
-
-
-
-\- \*\*Current Status:\*\* Course 10
-
-\- \*\*Goal:\*\* Master core computer science fundamentals, data structures, algorithms, and software engineering principles.
-
-
-
-\---
-
-
-
-\## 📂 Course Directory
-
-
+## 📂 Course Directory
 
 | Course | Title / Topic | Status | Highlights / Key Projects |
-
 | :--- | :--- | :---: | :--- |
+| **Course 01 - 02** | Programming Foundations | ✅ Completed | Basic syntax, logic building |
+| **Course 03 - 08** | Core Programming & OOP | ✅ Completed | Mini-projects, problem-solving, algorithms |
+| **Course 09** | Core CS Concepts | ✅ Completed | Theoretical concepts & architecture notes |
+| **Course 10** | Advanced Concepts & Projects | 🔄 In Progress | Active daily projects |
 
-| \*\*Course 01 - 02\*\* | Programming Foundations | ✅ Completed | Basic syntax, logic building |
+---
 
-| \*\*Course 03 - 08\*\* | Core Programming \& OOP | ✅ Completed | Mini-projects, problem-solving, algorithms |
+## 🛠 Tech Stack & Tools
 
-| \*\*Course 09\*\* | Core CS Concepts | ✅ Completed | Theoretical concepts \& architecture notes |
+- **Languages:** C++ / C# *(update as needed)*
+- **Tools:** Visual Studio, Git, GitHub
+- **Platform:** Programming Advices
 
-| \*\*Course 10\*\* | Advanced Concepts \& Projects | 🔄 In Progress | Active daily projects |
+---
 
-
-
-\---
-
-
-
-\## 🛠 Tech Stack \& Tools
-
-
-
-\- \*\*Languages:\*\* C++ / C# \*(update as needed)\*
-
-\- \*\*Tools:\*\* Visual Studio, Git, GitHub
-
-\- \*\*Platform:\*\* Programming Advices
-
-
-
-\---
-
-
-
-\## 💡 Notes \& Documented Bugs
-
-
+## 💡 Notes & Documented Bugs
 
 I log tricky problems and edge-case solutions within each individual course folder to serve as my personal developer reference guide.
-
