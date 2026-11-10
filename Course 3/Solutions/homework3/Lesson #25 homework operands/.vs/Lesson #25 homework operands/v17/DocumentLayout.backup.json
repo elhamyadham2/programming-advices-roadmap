@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\homework\\homework3\\Lesson #25 homework operands\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3170CC15-CC2F-4159-AFD5-2104EAA11CEE}|Lesson #25 homework operands\\Lesson #25 homework operands.vcxproj|C:\\Users\\PC\\source\\repos\\homework\\homework3\\Lesson #25 homework operands\\Lesson #25 homework operands\\Lesson #25 homework operands.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3170CC15-CC2F-4159-AFD5-2104EAA11CEE}|Lesson #25 homework operands\\Lesson #25 homework operands.vcxproj|solutionrelative:Lesson #25 homework operands\\Lesson #25 homework operands.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lesson #25 homework operands.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\homework\\homework3\\Lesson #25 homework operands\\Lesson #25 homework operands\\Lesson #25 homework operands.cpp",
+              "RelativeDocumentMoniker": "Lesson #25 homework operands\\Lesson #25 homework operands.cpp",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\homework\\homework3\\Lesson #25 homework operands\\Lesson #25 homework operands\\Lesson #25 homework operands.cpp*",
+              "RelativeToolTip": "Lesson #25 homework operands\\Lesson #25 homework operands.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-25T17:18:43.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

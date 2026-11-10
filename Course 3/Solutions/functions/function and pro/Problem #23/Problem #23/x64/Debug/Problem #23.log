@@ -1,0 +1,4 @@
+﻿  Problem #23.cpp
+C:\Users\PC\source\repos\homework\functions\function and pro\Problem #23\Problem #23\Problem #23.cpp(31,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\PC\source\repos\homework\functions\function and pro\Problem #23\Problem #23\Problem #23.cpp(34,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Problem #23.vcxproj -> C:\Users\PC\source\repos\homework\functions\function and pro\Problem #23\x64\Debug\Problem #23.exe

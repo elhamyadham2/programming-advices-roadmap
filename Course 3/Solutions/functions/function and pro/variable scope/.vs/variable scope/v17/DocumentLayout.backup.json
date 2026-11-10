@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\homework\\functions\\function and pro\\variable scope\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48220BF8-3FDC-425C-8533-C0CC08AA32ED}|variable scope\\variable scope.vcxproj|C:\\Users\\PC\\source\\repos\\homework\\functions\\function and pro\\variable scope\\variable scope\\variable scope.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48220BF8-3FDC-425C-8533-C0CC08AA32ED}|variable scope\\variable scope.vcxproj|solutionrelative:variable scope\\variable scope.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "variable scope.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\homework\\functions\\function and pro\\variable scope\\variable scope\\variable scope.cpp",
+              "RelativeDocumentMoniker": "variable scope\\variable scope.cpp",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\homework\\functions\\function and pro\\variable scope\\variable scope\\variable scope.cpp*",
+              "RelativeToolTip": "variable scope\\variable scope.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-30T05:22:11.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+﻿  Problem #22.cpp
+C:\Users\PC\source\repos\homework\functions\function and pro\Problem #22\Problem #22\Problem #22.cpp(15,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\PC\source\repos\homework\functions\function and pro\Problem #22\Problem #22\Problem #22.cpp(18,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\source\repos\homework\functions\function and pro\Problem #22\Problem #22\Problem #22.cpp(35,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\source\repos\homework\functions\function and pro\Problem #22\Problem #22\Problem #22.cpp(35,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Problem #22.vcxproj -> C:\Users\PC\source\repos\homework\functions\function and pro\Problem #22\x64\Debug\Problem #22.exe

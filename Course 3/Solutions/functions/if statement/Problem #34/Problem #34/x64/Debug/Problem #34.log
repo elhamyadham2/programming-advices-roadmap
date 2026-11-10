@@ -1,0 +1,6 @@
+﻿  Problem #34.cpp
+C:\Users\PC\source\repos\homework\functions\if statement\Problem #34\Problem #34\Problem #34.cpp(33,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\PC\source\repos\homework\functions\if statement\Problem #34\Problem #34\Problem #34.cpp(37,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\PC\source\repos\homework\functions\if statement\Problem #34\Problem #34\Problem #34.cpp(41,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\PC\source\repos\homework\functions\if statement\Problem #34\Problem #34\Problem #34.cpp(45,35): warning C4305: '=': truncation from 'double' to 'float'
+  Problem #34.vcxproj -> C:\Users\PC\source\repos\homework\functions\if statement\Problem #34\x64\Debug\Problem #34.exe

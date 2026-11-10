@@ -1,6 +1,16 @@
 # Set default behavior to automatically handle line endings
 * text=auto
 
+# Visual Studio temporary files & build output
+.vs/
+Debug/
+Release/
+*.exe
+*.obj
+*.pdb
+*.user
+*.log
+
 # Explicitly declare text files to always use LF (Linux/Mac) or CRLF (Windows)
 *.md text eol=lf
 *.cpp text

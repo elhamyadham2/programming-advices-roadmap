@@ -1,0 +1,5 @@
+﻿  lesson 28.cpp
+C:\Users\PC\source\repos\homework\homeworlenum\lesson 28\lesson 28\lesson 28.cpp(42,9): warning C4101: 'mygender': unreferenced local variable
+C:\Users\PC\source\repos\homework\homeworlenum\lesson 28\lesson 28\lesson 28.cpp(44,8): warning C4101: 'mycolor': unreferenced local variable
+C:\Users\PC\source\repos\homework\homeworlenum\lesson 28\lesson 28\lesson 28.cpp(43,10): warning C4101: 'mystatues': unreferenced local variable
+  lesson 28.vcxproj -> C:\Users\PC\source\repos\homework\homeworlenum\lesson 28\x64\Debug\lesson 28.exe

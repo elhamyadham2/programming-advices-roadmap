@@ -1,0 +1,4 @@
+﻿  Lesson #30.cpp
+C:\Users\PC\source\repos\homework\data convert\Lesson #30\Lesson #30\Lesson #30.cpp(11,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\source\repos\homework\data convert\Lesson #30\Lesson #30\Lesson #30.cpp(12,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Lesson #30.vcxproj -> C:\Users\PC\source\repos\homework\data convert\Lesson #30\x64\Debug\Lesson #30.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\homework\\for loops\\Lesson #48\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9039AD-61C7-43BA-9486-6075394AD222}|Lesson #48\\Lesson #48.vcxproj|C:\\Users\\PC\\source\\repos\\homework\\for loops\\Lesson #48\\Lesson #48\\Lesson #48.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C9039AD-61C7-43BA-9486-6075394AD222}|Lesson #48\\Lesson #48.vcxproj|solutionrelative:Lesson #48\\Lesson #48.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lesson #48.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\homework\\for loops\\Lesson #48\\Lesson #48\\Lesson #48.cpp",
+              "RelativeDocumentMoniker": "Lesson #48\\Lesson #48.cpp",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\homework\\for loops\\Lesson #48\\Lesson #48\\Lesson #48.cpp",
+              "RelativeToolTip": "Lesson #48\\Lesson #48.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-09T06:32:22.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

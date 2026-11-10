@@ -1,0 +1,5 @@
+﻿  Problem #31.cpp
+C:\Users\PC\source\repos\homework\functions\function and pro\Problem #31\Problem #31\Problem #31.cpp(9,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\source\repos\homework\functions\function and pro\Problem #31\Problem #31\Problem #31.cpp(16,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\source\repos\homework\functions\function and pro\Problem #31\Problem #31\Problem #31.cpp(23,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Problem #31.vcxproj -> C:\Users\PC\source\repos\homework\functions\function and pro\Problem #31\x64\Debug\Problem #31.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\homework\\functions\\if statement\\Problem #49\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB1964C-2A35-4E0E-9AC3-B7C23C68EB07}|Problem #49\\Problem #49.vcxproj|C:\\Users\\PC\\source\\repos\\homework\\functions\\if statement\\Problem #49\\Problem #49\\Problem #49.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EB1964C-2A35-4E0E-9AC3-B7C23C68EB07}|Problem #49\\Problem #49.vcxproj|solutionrelative:Problem #49\\Problem #49.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem #49.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\homework\\functions\\if statement\\Problem #49\\Problem #49\\Problem #49.cpp",
+              "RelativeDocumentMoniker": "Problem #49\\Problem #49.cpp",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\homework\\functions\\if statement\\Problem #49\\Problem #49\\Problem #49.cpp*",
+              "RelativeToolTip": "Problem #49\\Problem #49.cpp*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-04T12:34:27.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\homework\\homeworks\\homework2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1A8137-8B37-4454-A7C0-F12380F8DF4F}|homework2\\homework2.vcxproj|C:\\Users\\PC\\source\\repos\\homework\\homeworks\\homework2\\homework2\\homework2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB1A8137-8B37-4454-A7C0-F12380F8DF4F}|homework2\\homework2.vcxproj|solutionrelative:homework2\\homework2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "homework2.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\homework\\homeworks\\homework2\\homework2\\homework2.cpp",
+              "RelativeDocumentMoniker": "homework2\\homework2.cpp",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\homework\\homeworks\\homework2\\homework2\\homework2.cpp",
+              "RelativeToolTip": "homework2\\homework2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-16T15:10:09.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
