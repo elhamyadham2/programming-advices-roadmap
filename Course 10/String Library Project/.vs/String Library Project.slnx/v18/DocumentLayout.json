@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\course 10\\String Library Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD34689C-228F-4AD9-9881-7BDFF2ADB2A5}|String Library Project\\String Library Project.vcxproj|C:\\Users\\ASUS\\source\\repos\\course 10\\String Library Project\\String Library Project\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BD34689C-228F-4AD9-9881-7BDFF2ADB2A5}|String Library Project\\String Library Project.vcxproj|solutionrelative:String Library Project\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BD34689C-228F-4AD9-9881-7BDFF2ADB2A5}|String Library Project\\String Library Project.vcxproj|C:\\Users\\ASUS\\source\\repos\\course 10\\String Library Project\\String Library Project\\String Library Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BD34689C-228F-4AD9-9881-7BDFF2ADB2A5}|String Library Project\\String Library Project.vcxproj|solutionrelative:String Library Project\\String Library Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD34689C-228F-4AD9-9881-7BDFF2ADB2A5}|String Library Project\\String Library Project.vcxproj|C:\\Users\\ASUS\\source\\repos\\course 10\\String Library Project\\String Library Project\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD34689C-228F-4AD9-9881-7BDFF2ADB2A5}|String Library Project\\String Library Project.vcxproj|solutionrelative:String Library Project\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,26 +30,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "clsString.h",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\course 10\\String Library Project\\String Library Project\\clsString.h",
               "RelativeDocumentMoniker": "String Library Project\\clsString.h",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\course 10\\String Library Project\\String Library Project\\clsString.h",
               "RelativeToolTip": "String Library Project\\clsString.h",
-              "ViewState": "AgIAALoAAAAAAAAAAAAAAO4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJYBAAAAAAAAAAAAAN8BAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-11-11T13:14:13.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "String Library Project.cpp",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\course 10\\String Library Project\\String Library Project\\String Library Project.cpp",
               "RelativeDocumentMoniker": "String Library Project\\String Library Project.cpp",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\course 10\\String Library Project\\String Library Project\\String Library Project.cpp",
               "RelativeToolTip": "String Library Project\\String Library Project.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEkAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-11-11T13:10:56.381Z",
               "EditorCaption": ""

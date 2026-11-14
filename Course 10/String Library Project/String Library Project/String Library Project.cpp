@@ -18,20 +18,24 @@ int main()
     String1.FirstLetterOfEachWord();
 
     cout << "\nUppercase first letter: " << endl;
-    String1.Value = String1.UppercaseFirstLetter();
+    String1.UppercaseFirstLetterEachWord();
     cout << String1.Value;
 
     cout << "\nLowecase First letter: " << endl;
-    cout << String1.LowercaseFirstLetter();
+    String1.LowercaseFirstLetterEachWord();
+    cout << String1.Value;
 
     cout << "\nUppercase All letters: " << endl;
-    cout << String1.UppercaseAllLetters();
+    String1.UppercaseAllLetters();
+    cout << String1.Value;
 
     cout << "\nLowercase All letters: " << endl;
-    cout << String1.LowercaseAllLetters();
+    String1.LowercaseAllLetters();
+    cout << String1.Value;
 
     cout << "\nInvert All letters: " << endl;
-    cout << String1.InvertAllLetters();
+    String1.InvertAllLetters();
+    cout << String1.Value;
 
     cout << "\nString Length = " << String1.CountLetters();
     cout << "\nCapital Letters Count= " << String1.CountLetters(clsString::CapitalLetter);
@@ -41,9 +45,34 @@ int main()
     cout << "\nLetter \'" << C1 << "\' Count = " << String1.MatchCaseCountLetter(C1);
     cout << "\nLetter \'" << C1 << "\' ";
     cout << "Or \'" << clsString::InvertChar(C1)  << "\' ";
-    cout << " Count = " << String1.AnyCaseCountLetter(C1) ;
+    cout << " Count = " << String1.AnyCaseCountLetter(C1) << endl ;
 
+    cout << "\nCount of Vowels: " <<String1.CountVowels() << endl;
 
+    cout << "Vowels are : "; String1.PrintVowels();
 
+    cout << "\nWords in string : "; String1.PrintEachWordInString();
+
+    cout << "\nNumber of Words In String : " << String1.NumberOfWordsInString();
+
+    vector<string> vString;
+    vString = String1.SplintString();
+    cout << "\nVector of Words In String : ";
+    for (string& s1 : vString)
+    {
+        cout << s1 << endl;
+    }
+
+    cout << "\nTrim Right:" << String1.TrimRight("           Elhamy Adham        ");
+    cout << "\nTrim left :" << String1.TrimLeft("           Elhamy Adham        ");
+    cout << "\nTrim All:" << String1.Trim("           Elhamy Adham        ");
+
+    cout << "\nRevers String : ";
+    String1.ReverseWordsInString();
+    cout << String1.Value;
+
+    cout << "\nReplace Word in string: " << String1.ReplaceWordInStringUsingBuiltInFunction("ADHAM", "Rabie");
+
+    cout << "\nRemove Puctuation: " << String1.RemovePunctuationsFromString(":Elhamy, Adham,, Rabie.");
     system("pause > 0");
 }

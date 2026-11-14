@@ -1,9 +1,30 @@
 ﻿  String Library Project.cpp
-C:\Users\ASUS\source\repos\course 10\String Library Project\String Library Project\clsString.h(143,14): warning C4091: 'static ': ignored on left of 'clsString::enWhatToCount' when no variable is declared
+C:\Users\ASUS\source\repos\course 10\String Library Project\String Library Project\clsString.h(39,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
   (compiling source file 'String%20Library%20Project.cpp')
   
-C:\Users\ASUS\source\repos\course 10\String Library Project\String Library Project\clsString.h(152,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\course 10\String Library Project\String Library Project\clsString.h(43,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
   (compiling source file 'String%20Library%20Project.cpp')
   
-C:\Users\ASUS\source\repos\course 10\String Library Project\String Library Project\clsString.h(180,1): warning C4715: 'clsString::CountLetters': not all control paths return a value
+C:\Users\ASUS\source\repos\course 10\String Library Project\String Library Project\clsString.h(163,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+C:\Users\ASUS\source\repos\course 10\String Library Project\String Library Project\clsString.h(289,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+C:\Users\ASUS\source\repos\course 10\String Library Project\String Library Project\clsString.h(316,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+C:\Users\ASUS\source\repos\course 10\String Library Project\String Library Project\clsString.h(343,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+C:\Users\ASUS\source\repos\course 10\String Library Project\String Library Project\clsString.h(383,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+C:\Users\ASUS\source\repos\course 10\String Library Project\String Library Project\clsString.h(452,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+C:\Users\ASUS\source\repos\course 10\String Library Project\String Library Project\clsString.h(456,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+C:\Users\ASUS\source\repos\course 10\String Library Project\String Library Project\clsString.h(191,1): warning C4715: 'clsString::CountLetters': not all control paths return a value
   String Library Project.vcxproj -> C:\Users\ASUS\source\repos\course 10\String Library Project\x64\Debug\String Library Project.exe
