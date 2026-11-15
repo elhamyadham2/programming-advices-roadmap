@@ -1,0 +1,29 @@
+﻿  Date Library Project.cpp
+C:\Users\ASUS\source\repos\course 10\Date Library Project\Date Library Project\clsString.h(39,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date%20Library%20Project.cpp')
+  
+C:\Users\ASUS\source\repos\course 10\Date Library Project\Date Library Project\clsString.h(43,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date%20Library%20Project.cpp')
+  
+C:\Users\ASUS\source\repos\course 10\Date Library Project\Date Library Project\clsString.h(163,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date%20Library%20Project.cpp')
+  
+C:\Users\ASUS\source\repos\course 10\Date Library Project\Date Library Project\clsString.h(289,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Date%20Library%20Project.cpp')
+  
+C:\Users\ASUS\source\repos\course 10\Date Library Project\Date Library Project\clsString.h(316,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date%20Library%20Project.cpp')
+  
+C:\Users\ASUS\source\repos\course 10\Date Library Project\Date Library Project\clsString.h(343,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Date%20Library%20Project.cpp')
+  
+C:\Users\ASUS\source\repos\course 10\Date Library Project\Date Library Project\clsString.h(383,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Date%20Library%20Project.cpp')
+  
+C:\Users\ASUS\source\repos\course 10\Date Library Project\Date Library Project\clsString.h(452,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Date%20Library%20Project.cpp')
+  
+C:\Users\ASUS\source\repos\course 10\Date Library Project\Date Library Project\clsString.h(456,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Date%20Library%20Project.cpp')
+  
+  Date Library Project.vcxproj -> C:\Users\ASUS\source\repos\course 10\Date Library Project\x64\Debug\Date Library Project.exe
